@@ -1,9 +1,0 @@
-# Local environment
-	.venv/
-	.env
-	*.env
-# Python cache files
-	__pycache__/
-	*.pyc
-# macOS system files
-.DS_Store
